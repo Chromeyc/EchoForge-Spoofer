@@ -2,7 +2,7 @@
 
 Welcome to the **Roblox Spoofer** by *admin_x2*! This tool helps you clean up your Roblox account of bans and help u unban urself easily. Follow the instructions below to get started.
 
-## 🛠️ Available Option in Spoofer.bat
+## 🛠️ Available Options in Spoofer.bat
 
 1. **Start Cleaning** 🧹
 2. **Quit** 🚪
