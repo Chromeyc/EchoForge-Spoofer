@@ -28,4 +28,4 @@ For more questions or help, feel free to DM me on Discord: `admin_x2` 💬
 
 **Note:** Use this tool responsibly. Misuse may lead to unwanted consequences. This is not a Virus. Use on own Responsibility.
 
-**Updates:** I will release the Source of this Project at 25 Stars
+**Updates:** I will release the Source of this Project at 25 Stars. And Dm me on discord for suggestions i should add i might remake the whole thing in python.
