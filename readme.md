@@ -1,4 +1,4 @@
-Roblox Cleaner
+# Roblox Spoofer 🚀
 
 Welcome to the Roblox Cleaner repository! 🎉 This tool helps you clean up Roblox-related files and reinstall the Roblox Player.
 📋 Table of Contents
@@ -13,42 +13,15 @@ Welcome to the Roblox Cleaner repository! 🎉 This tool helps you clean up Robl
 
 🚀 Features
 
-    Clean up Roblox files and directories.
+    Spoof up Roblox files and directories.
     Close Roblox Player if it is running.
     Option to reinstall Roblox Player.
     Simple command-line interface with styled output.
 
 💻 Installation
 
-    Clone the Repository
-
-    git clone https://github.com/yourusername/roblox-cleaner.git
-    cd roblox-cleaner
-
-    Run the Installation Script
-
-    Make sure you have Python installed. You can download it from python.org.
-
-    Use the start.bat file to install the required Python libraries and run the script.
-
-    Create a start.bat file in your project directory with the following content:
-
-    sql
-
-    @echo off
-    echo Installing required Python libraries...
-
-    :: Install external Python libraries
-    pip install pystyle psutil
-
-    :: Clear the console
-    cls
-
-    echo Launching Roblox Cleaner...
-    python spoofermain.py
-
-    :: Pause to keep the console window open
-    pause
+    Open Up `Open This To Start.bat` 
+    u just need a brain and press 1 on your keyboard and enter
 
 🛠 Usage
 
