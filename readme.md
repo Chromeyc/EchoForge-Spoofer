@@ -67,4 +67,4 @@ Contributions are welcome! Please fork the repository, create a feature branch, 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Thank you for using Roblox Cleaner! If you find this tool helpful, please consider giving it a star on GitHub ⭐️.
+Thank you for using Echo Spoofer! If you find this tool helpful, please consider giving it a star on GitHub ⭐️.
