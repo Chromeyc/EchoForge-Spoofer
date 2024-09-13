@@ -1,33 +1,94 @@
-# Roblox Spoofer 🚀
+Roblox Cleaner
 
-Welcome to the **Roblox Spoofer** by *admin_x2*! This tool helps you clean up your Roblox account of bans and help u unban urself easily or if u get the error `403 authentication failed`. Follow the instructions below to get started.
+Welcome to the Roblox Cleaner repository! 🎉 This tool helps you clean up Roblox-related files and reinstall the Roblox Player.
+📋 Table of Contents
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Chromeyc/EchoForge-Spoofer/total)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [To-Do List](#to-do-list)
+- [Issues](#issues)
+- [Contributing](#contributing)
+- [License](#license)
 
-## 🛠️ Available Options in Spoofer.bat
+🚀 Features
 
-1. **Start Cleaning** 🧹
-2. **Quit** 🚪
-3. **IP Change** 🌐
+    Clean up Roblox files and directories.
+    Close Roblox Player if it is running.
+    Option to reinstall Roblox Player.
+    Simple command-line interface with styled output.
 
+💻 Installation
 
-### If Your Account Got Banned 🚫
+    Clone the Repository
 
-1. **Select Option 1** to start cleaning. 
-2. Accept all prompts from the spoofer.
-3. **Logout** of your Roblox account and create a new one or use an alt account. 
+    git clone https://github.com/yourusername/roblox-cleaner.git
+    cd roblox-cleaner
 
-   - You might need to log in through the app that the spoofer opens to complete the process.
-   - You can use the Roblox website after restarting your computer. However, if you prefer not to restart immediately, you can log in through the app that the spoofer opened.
+    Run the Installation Script
 
-4. If you are still not unbanned, select **Option 3** (IP Change) — note that this may not work for all devices.
-5. After that, repeat **Option 1** to complete the cleaning process.
+    Make sure you have Python installed. You can download it from python.org.
 
-Now your account should be spoofed successfully! 🎉
+    Use the start.bat file to install the required Python libraries and run the script.
 
-For more questions or help, feel free to DM me on Discord: `admin_x2` 💬
+    Create a start.bat file in your project directory with the following content:
 
+    sql
 
-**Note:** Use this tool responsibly. Misuse may lead to unwanted consequences. This is not a Virus. Use on own Responsibility.
+    @echo off
+    echo Installing required Python libraries...
 
-**Updates:** I will release the Source of this Project at 25 Stars. And Dm me on discord for suggestions i should add i might remake the whole thing in python.
+    :: Install external Python libraries
+    pip install pystyle psutil
+
+    :: Clear the console
+    cls
+
+    echo Launching Roblox Cleaner...
+    python spoofermain.py
+
+    :: Pause to keep the console window open
+    pause
+
+🛠 Usage
+
+    Run the Cleaner
+        Double-click start.bat to install the required libraries and run the Roblox Cleaner script.
+
+    Follow the On-Screen Instructions
+        The script will prompt you to close Roblox Player, delete specific files, and optionally reinstall Roblox Player.
+
+    Reinstall Roblox Player
+        If you choose to reinstall, the script will download and run the installer.
+
+📋 To-Do List
+
+Implement full spoofing features.
+Add more error handling and user feedback.
+Enhance the user interface with additional color schemes.
+
+    Test and ensure compatibility with various Windows versions.
+
+🐞 Issues
+
+Permission Errors: Handle cases where access to files or directories is denied.
+File Not Found: Ensure correct paths are used for file deletions.
+
+    Reinstallation Issues: Confirm that the installer runs correctly on all systems.
+
+If you encounter any issues, please report them here.
+🤝 Contributing
+
+Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request with your changes.
+
+    Fork the Repository: Click the "Fork" button at the top right of the repository page.
+    Create a Feature Branch: git checkout -b feature/new-feature
+    Commit Your Changes: git commit -am 'Add new feature'
+    Push to the Branch: git push origin feature/new-feature
+    Submit a Pull Request: Go to the "Pull Requests" tab and click "New Pull Request."
+
+📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Thank you for using Roblox Cleaner! If you find this tool helpful, please consider giving it a star on GitHub ⭐️.
