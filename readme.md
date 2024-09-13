@@ -2,6 +2,8 @@
 
 Welcome to the **Roblox Spoofer** by *admin_x2*! This tool helps you clean up your Roblox account of bans and help u unban urself easily or if u get the error `403 authentication failed`. Follow the instructions below to get started.
 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Chromeyc/EchoForge-Spoofer/total)
+
 ## 🛠️ Available Options in Spoofer.bat
 
 1. **Start Cleaning** 🧹
