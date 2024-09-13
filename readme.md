@@ -3,7 +3,7 @@
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Chromeyc/EchoForge-Spoofer/total)
 
 
-Welcome to the Roblox Cleaner repository! 🎉 This tool helps you clean up Roblox-related files and reinstall the Roblox Player.
+Welcome to the Echo Spoofer repository! 🎉 This tool helps you spoof up Roblox-related files and reinstall the Roblox Player.
 📋 Table of Contents
 
 - [Features](#features)
@@ -28,8 +28,8 @@ Welcome to the Roblox Cleaner repository! 🎉 This tool helps you clean up Robl
 
 🛠 Usage
 
-    Run the Cleaner
-        Double-click start.bat to install the required libraries and run the Roblox Cleaner script.
+    Run the Spoofer
+        Double-click start.bat to install the required libraries and run the Roblox Spoofer script.
 
     Follow the On-Screen Instructions
         The script will prompt you to close Roblox Player, delete specific files, and optionally reinstall Roblox Player.
