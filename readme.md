@@ -2,6 +2,8 @@
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Chromeyc/EchoForge-Spoofer/total)
 
+![Discord Server](https://discord.gg/4fyWnejzK4)
+
 
 Welcome to the Echo Spoofer repository! 🎉 This tool helps you spoof up Roblox-related files and reinstall the Roblox Player.
 📋 Table of Contents
