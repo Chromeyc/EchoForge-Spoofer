@@ -1,5 +1,8 @@
 # Echo Forge Spoofer 🚀
 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Chromeyc/EchoForge-Spoofer/total)
+
+
 Welcome to the Roblox Cleaner repository! 🎉 This tool helps you clean up Roblox-related files and reinstall the Roblox Player.
 📋 Table of Contents
 
